@@ -1,0 +1,11 @@
+name: NexoDenizen
+main: com.pwing.NexoDenizenPlugin
+version: @version@
+api-version: 1.21
+author: finder17
+description: A plugin to integrate Nexo with Denizen.
+
+depend:
+  - Denizen
+  - Nexo
+

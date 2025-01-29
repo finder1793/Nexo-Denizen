@@ -1,0 +1,40 @@
+# Gradle files
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# Eclipse files
+.project
+.classpath
+.c9/
+
+# VS Code files
+.vscode/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven files
+target/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
